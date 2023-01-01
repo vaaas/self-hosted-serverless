@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@types/node": "^18.11.18",
+    "find-my-way": "^7.3.1",
+    "node-lmdb": "^0.9.7"
+  }
+}
